@@ -54,14 +54,9 @@ Extras:            API Integration • Firebase Hosting • SEO Optimization
 </p>
 
 ---
-<!--
+## ⏱️ WakaTime Coding Stats
 
-## ⏱️ WakaTime Activity
-
-<!-- Replace "codexloner" with your actual WakaTime username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codexloner&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Codexloner&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
