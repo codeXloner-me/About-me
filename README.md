@@ -54,7 +54,8 @@ Extras:            API Integration • Firebase Hosting • SEO Optimization
 </p>
 
 ---
-```
+<!--
+
 ## ⏱️ WakaTime Activity
 
 <!-- Replace "codexloner" with your actual WakaTime username -->
@@ -62,10 +63,8 @@ Extras:            API Integration • Firebase Hosting • SEO Optimization
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codexloner&theme=tokyonight&hide_border=true"/>
 </p>
 
-> Don’t have WakaTime yet? Sign up at [wakatime.com](https://wakatime.com) and install their editor plugin.
-
 ---
-```
+
 ## 🔗 Live Demos from My Projects
 
 | Project | Demo Link | Tech Stack |
