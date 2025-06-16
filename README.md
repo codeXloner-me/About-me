@@ -19,12 +19,7 @@
 
 ---
 
-### 📁 Projects
-- 🎵 [Swift Music Player](#)
-- 🚚 [Logistic Optimiser](#)
-- 🌐 [Sail Site Clone](#)
 
----
 
 ### 🧰 Tech Stack
 <p>
@@ -40,7 +35,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Kartikay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+! GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
