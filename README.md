@@ -1,60 +1,58 @@
-<h1 align="center">Hi 👋, I'm Codexloner</h1>
-<h3 align="center">🚀 Frontend Developer | Python Enthusiast | AI Explorer</h3>
 
----
 
-### 🔍 About Me
-- 🌱 Currently working as a **Frontend Web Designer** and **Python Developer**
-- 🌐 Explore my projects on [My Portfolio](https://codexloner.great-site.net/?i=1)
-- 💡 Participated in **Hackathons**, **IoT Workshops**, and built **5+ personal projects**
-- 🎯 **Fun Fact:** I love exploring AI tools and enjoy coding with good vibes
+<h1 align="center">🚀 Codexloner: Frontend Wizard & Python Tactician ⚡</h1>
+<h3 align="center">Crafting clean code, responsive UIs & AI-infused logic from the future 💻</h3>
 
----
-
-### 🛠️ Skills
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Firebase, Supabase  
-- **Database:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, VS Code, Netlify  
-
----
-
-### ⚙️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codexloner&show_icons=true&theme=tokyonight" alt="Codexloner's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexloner&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Code-Html5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Python-blueviolet?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-orange?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Style-Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://codexloner.great-site.net/?i=1" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/suryansh-niranjan-729606312/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:codexloner@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+## 🧬 About Me
+- 🧠 I build modern frontends using **HTML, CSS, JS, Tailwind & Bootstrap**
+- 🔐 I manage backend logic using **Firebase and Python**
+- 🌍 I love open-source, futuristic UI/UX and turning wild ideas into functional web apps
+- 💻 Currently exploring **AI-integrated frontend workflows**
+- 🛠️ Portfolio: [codexloner.great-site.net](https://codexloner.great-site.net/?i=1)
+
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-niranjan-729606312/)
+[![Gmail](https://img.shields.io/badge/Email-codexloner@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:codexloner@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codexloner&show_icons=true&theme=radical" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexloner&layout=compact&theme=radical" alt="Top Langs" height="170px"/>
 </p>
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — **Cory House**
-> 
+## 🧠 Tech Stack
+
+```yaml
+Languages:
+  - HTML5
+  - CSS3
+  - JavaScript (ES6+)
+  - Python
+Frameworks:
+  - Bootstrap
+  - Tailwind CSS
+  - Firebase (Auth, Firestore, Hosting)
+Tools:
+  - VS Code
+  - Git & GitHub
+  - Chrome DevTools
+  - Postman
